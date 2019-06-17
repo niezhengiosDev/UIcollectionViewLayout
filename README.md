@@ -1,0 +1,5 @@
+# UIcollectionViewLayout
+修改CollectionView的layout达到修改列表样式
+
+重写UICollectionViewFlowLayout，实现：搜索标签排列显示自动换行
+
